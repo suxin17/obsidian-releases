@@ -21,6 +21,13 @@
     "repo": "vinzent03/obsidian-git"
   },
   {
+    "id": "notion-home-plugin",
+    "name": "Notion-style Home & Tasks",
+    "author": "suxin17",
+    "description": "Notion-style Home page (banner + avatar) with task manager featuring List/Board/Gantt views, built-in timer, work-time heatmap, pie chart, sub-task editor, and bilingual UI.",
+    "repo": "suxin17/notion-home-plugin"
+  },
+  {
     "id": "url-into-selection",
     "name": "Paste URL into selection",
     "author": "denolehov",
