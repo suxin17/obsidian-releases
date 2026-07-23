@@ -2,3 +2,9 @@ node_modules/
 .DS_Store
 .idea
 *.iml
+
+# Local PR draft helpers (not for upstream PR)
+pr_body.md
+pr_payload.json
+pr_url.txt
+add_plugin.py

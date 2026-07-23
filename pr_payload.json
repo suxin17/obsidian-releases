@@ -1,7 +1,0 @@
-{
-  "title": "Add notion-home-plugin to community plugins",
-  "head": "suxin17:add-notion-home-plugin",
-  "base": "master",
-  "body": "Adding my Notion-style Home & Tasks plugin to the community plugins list.\n\n## Plugin\n- **Name**: Notion-style Home & Tasks\n- **ID**: notion-home-plugin\n- **Repo**: https://github.com/suxin17/notion-home-plugin\n- **Author**: suxin17\n- **Latest release**: v0.8.0\n\n## Description\nNotion-style Home page (banner + avatar + two columns) with task manager (Table/Board/Gantt views), built-in timer, work-time heatmap, pie chart, sub-task editor, **Pomodoro focus mode, daily streak, habit tracker**, and bilingual UI.\n\n## What's new in v0.8.0\n- Pomodoro / focus mode attached to each task row (4 visual states)\n- Daily streak with configurable threshold (default 60s)\n- Habit tracker (binary + count mode, 7-day week strip)\n- Pomodoro config UI + module toggles\n- Today's pomodoro count on Home streak card\n\n## Submission checklist\n- [x] Plugin follows Obsidian developer policies\n- [x] Plugin has minimal API version (v1.4.0)\n- [x] Plugin has a valid manifest.json\n- [x] Plugin has a LICENSE (MIT)\n- [x] Plugin has a README (Chinese + English)\n- [x] Plugin has at least one GitHub release (v0.8.0)\n- [x] Tested on Windows 11 + Obsidian v1.4+\n\nThanks for the review!",
-  "maintainer_can_modify": true
-}
