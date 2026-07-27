@@ -21,11 +21,11 @@
     "repo": "vinzent03/obsidian-git"
   },
   {
-    "id": "notion-home-plugin",
-    "name": "Notion-style Home & Tasks",
+    "id": "obsidian-notion-suite",
+    "name": "Obsidian Notion Suite",
     "author": "suxin17",
     "description": "Notion-style Home page (banner + avatar + two columns) with task manager (Table / Board / Gantt views), built-in timer, work-time heatmap, pie chart, sub-task editor, **Pomodoro focus mode, daily streak, habit tracker**, and bilingual UI.",
-    "repo": "suxin17/notion-home-plugin"
+    "repo": "suxin17/obsidian-notion-suite"
   },
   {
     "id": "url-into-selection",
